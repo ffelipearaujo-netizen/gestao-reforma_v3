@@ -7,7 +7,7 @@ st.title("🏗️ Gestão Colaborativa de Reforma")
 
 # 1. Ligação ao Google Sheets
 # Nota: Cole o link da sua folha do Google aqui
-url = "https://docs.google.com/spreadsheets/d/10dO5fmqcY0acJYe_imMK6Mj1UQJE3Vu_fopFCpqkjzU/edit?gid=0#gid=0"
+url = "https://docs.google.com/spreadsheets/d/1dBJcJ1SOSWrI0k0p3ZoB8pYyGAquYwfn3OTrrNU3er0/edit?gid=0#gid=0"
 
 conn = st.connection("gsheets", type=GSheetsConnection)
 
